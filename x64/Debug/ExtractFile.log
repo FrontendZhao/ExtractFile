@@ -1,0 +1,13 @@
+﻿  Moc'ing extractfile.h...
+  Uic'ing extractfile.ui...
+  Rcc'ing extractfile.qrc...
+RCC : warning : No resources in 'F:\document\鐨撳摜鏂囨。\ExtractFile\Release\ExtractFileCode\extractfile.qrc'.
+  
+  ComDocIO.cpp
+  extractfile.cpp
+  moc_extractfile.cpp
+  main.cpp
+  Generating Code...
+  qrc_extractfile.cpp
+  ExtractFile.vcxproj -> F:\document\皓哥文档\ExtractFile\Release\ExtractFileCode\x64\Debug\ExtractFile.exe
+  ExtractFile.vcxproj -> F:\document\皓哥文档\ExtractFile\Release\ExtractFileCode\x64\Debug\ExtractFile.pdb (Full PDB)
